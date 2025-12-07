@@ -11,7 +11,7 @@ Ciência da Computação, atualmente faço freelancer de criação de jogos e de
 <h2 dir="auto"></h2>
           
 ### Você também me encontra em:
-<a href="https://www.linkedin.com/in/vinicius2/">
+<a href="https://www.linkedin.com/in/kaiioo/">
   <img width="80" height="30" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" />
 </a>
           
