@@ -1,17 +1,105 @@
-### Oi, Meu nome é Kaio Vinicius👋
-Atualmente faço freelancer de criação de jogos e desenvolvimentos de sites
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Kaio%20Vinicius&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20&descAlignY=55&descSize=25" alt="Kaio Vinicius Header" width="100%"/>
+</div>
 
-• 👨🏻‍💻 **Ciência da Computação** | Apaixonado por Tecnologia<br>
-• 🧗🏼 Apaixonado por **atividade física**<br>
-• 🖥️ desenvolvimentos de jogos on-line<br>
-• 🖥️ Atualmente mais focado em:<br>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33CCFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Architecting+Modern+Web+Applications;Turning+Coffee+Into+Code;Next.js+%7C+Node.js+%7C+Python)](https://git.io/typing-svg)
 
-<img width="50" height="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png)" /> &nbsp;&nbsp;&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp; <img width="50" height="50" src="https://cdn.eduzzcdn.com/myeduzz/upload/cd/73/cd734fbf4daf4dcaa37afb293d3ababe" />
+</div>
 
-<h2 dir="auto"></h2>
-          
-### Você também me encontra em:
-<a href="https://www.linkedin.com/in/kaiioo/">
-  <img width="80" height="30" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" />
-</a>
-          
+<br/>
+
+## ⚡ Sobre Mim
+
+<div align="center">
+  <p>
+    Sou um <strong>Desenvolvedor Full Stack</strong> focado em performance, escalabilidade e experiência do usuário. Atualmente finalizando minha graduação em <strong>Análise e Desenvolvimento de Sistemas</strong>, combino fundamentos teóricos sólidos com uma abordagem prática e moderna para resolver problemas complexos.
+  </p>
+  <p>
+    Minha paixão reside em orquestrar ecossistemas completos, do banco de dados ao pixel na tela, utilizando as tecnologias mais atuais do mercado. Busco constantemente desafios que me permitam elevar o nível da engenharia de software.
+  </p>
+</div>
+
+<br/>
+
+## 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+  
+  ### Front-End Engineering
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </div>
+
+  ### Back-End Ecosystem & Databases
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </div>
+
+  ### DevOps & Tools
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </div>
+
+</div>
+
+<br/>
+
+## 📂 Projetos em Destaque
+
+| Projeto | Descrição | Stack Principal | Links |
+| :--- | :--- | :--- | :---: |
+| **Enterprise Management System** | Sistema robusto para gestão interna com dashboards analíticos, controle de usuários e relatórios automatizados. | `React` `Node.js` `MySQL` | [🔗 Demo](#) [💻 Code](#) |
+| **SaaS E-commerce Platform** | Plataforma de vendas escalável com integração de pagamentos, carrinho em tempo real e painel administrativo. | `Next.js` `TypeScript` `Tailwind` | [🔗 Demo](#) [💻 Code](#) |
+| **AI Automation Bot** | Script inteligente para automação de tarefas repetitivas e análise de dados, otimizando processos operacionais. | `Python` `Selenium` `Pandas` | [🔗 Demo](#) [💻 Code](#) |
+
+<br/>
+
+## 📊 Analytics
+
+<div align="center">
+  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=radical" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+## 📞 Conecte-se Comigo
+
+<div align="center">
+  <p>Estou sempre aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos.</p>
+  
+  <a href="mailto:seuemail@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/seu-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO_AQUI">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/>
+</div>
