@@ -65,21 +65,6 @@
 | **SaaS E-commerce Platform** | Plataforma de vendas escalável com integração de pagamentos, carrinho em tempo real e painel administrativo. | `Next.js` `TypeScript` `Tailwind` | [🔗 Demo](#) [💻 Code](#) |
 | **AI Automation Bot** | Script inteligente para automação de tarefas repetitivas e análise de dados, otimizando processos operacionais. | `Python` `Selenium` `Pandas` | [🔗 Demo](#) [💻 Code](#) |
 
-<br/>
-
-## 📊 Analytics
-
-<div align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=radical" alt="GitHub Streak" />
-</div>
-
-<br/>
 
 ## 📞 Conecte-se Comigo
 
