@@ -61,9 +61,9 @@
 
 | Projeto | Descrição | Stack Principal | Links |
 | :--- | :--- | :--- | :---: |
-| **Enterprise Management System** | Sistema robusto para gestão interna com dashboards analíticos, controle de usuários e relatórios automatizados. | `React` `Node.js` `MySQL` | [🔗 Demo](#) [💻 Code](#) |
-| **SaaS E-commerce Platform** | Plataforma de vendas escalável com integração de pagamentos, carrinho em tempo real e painel administrativo. | `Next.js` `TypeScript` `Tailwind` | [🔗 Demo](#) [💻 Code](#) |
-| **AI Automation Bot** | Script inteligente para automação de tarefas repetitivas e análise de dados, otimizando processos operacionais. | `Python` `Selenium` `Pandas` | [🔗 Demo](#) [💻 Code](#) |
+| **Enterprise Management System** | Sistema robusto para gestão interna com dashboards analíticos, controle de usuários e relatórios automatizados. | `React` `Node.js` `MySQL` | [🔗 Demo](https://URL_DO_SEU_PROJETO) [💻 Code](https://www.linkedin.com/in/kaiioo/) |
+| **SaaS E-commerce Platform** | Plataforma de vendas escalável com integração de pagamentos, carrinho em tempo real e painel administrativo. | `Next.js` `TypeScript` `Tailwind` | [🔗 Demo](https://URL_DO_SEU_PROJETO) [💻 Code](https://www.linkedin.com/in/kaiioo/) |
+| **AI Automation Bot** | Script inteligente para automação de tarefas repetitivas e análise de dados, otimizando processos operacionais. | `Python` `Selenium` `Pandas` | [🔗 Demo](https://URL_DO_SEU_PROJETO) [💻 Code](https://www.linkedin.com/in/kaiioo/) |
 
 
 ## 📞 Conecte-se Comigo
@@ -71,13 +71,13 @@
 <div align="center">
   <p>Estou sempre aberto a novas oportunidades e colaborações. Vamos construir algo incrível juntos.</p>
   
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="kkvinicius2012@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/seu-linkedin">
+  <a href="https://www.linkedin.com/in/kaiioo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/Kaiodb">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
