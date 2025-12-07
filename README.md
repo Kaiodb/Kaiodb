@@ -61,9 +61,9 @@
 
 | Projeto | Descrição | Stack Principal | Links |
 | :--- | :--- | :--- | :---: |
-| **Enterprise Management System** | Sistema robusto para gestão interna com dashboards analíticos, controle de usuários e relatórios automatizados. | `React` `Node.js` `MySQL` | [🔗 Demo](https://URL_DO_SEU_PROJETO) [💻 Code](https://www.linkedin.com/in/kaiioo/) |
-| **SaaS E-commerce Platform** | Plataforma de vendas escalável com integração de pagamentos, carrinho em tempo real e painel administrativo. | `Next.js` `TypeScript` `Tailwind` | [🔗 Demo](https://URL_DO_SEU_PROJETO) [💻 Code](https://www.linkedin.com/in/kaiioo/) |
-| **AI Automation Bot** | Script inteligente para automação de tarefas repetitivas e análise de dados, otimizando processos operacionais. | `Python` `Selenium` `Pandas` | [🔗 Demo](https://URL_DO_SEU_PROJETO) [💻 Code](https://www.linkedin.com/in/kaiioo/) |
+| **Enterprise Management System** | Sistema robusto para gestão interna com dashboards analíticos, controle de usuários e relatórios automatizados. | `React` `Node.js` `MySQL` | [🔗 Demo](https://www.linkedin.com/in/kaiioo/) [💻 Code](https://www.linkedin.com/in/kaiioo/) |
+| **SaaS E-commerce Platform** | Plataforma de vendas escalável com integração de pagamentos, carrinho em tempo real e painel administrativo. | `Next.js` `TypeScript` `Tailwind` | [🔗 Demo](https://www.linkedin.com/in/kaiioo/) [💻 Code](https://www.linkedin.com/in/kaiioo/) |
+| **AI Automation Bot** | Script inteligente para automação de tarefas repetitivas e análise de dados, otimizando processos operacionais. | `Python` `Selenium` `Pandas` | [🔗 Demo](https://www.linkedin.com/in/kaiioo/) [💻 Code](https://www.linkedin.com/in/kaiioo/) |
 
 
 ## 📞 Conecte-se Comigo
